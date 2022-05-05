@@ -14,7 +14,7 @@ Once all the code is done, I compiled the smart contract to make sure no errors 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Solidity – Contract Compiler
-![Stocks Phot]()
+![Stocks Phot](https://github.com/Maurolp15/Unit_20_Joint_Savings_Account/blob/main/Execution_Results/Screenshot_1.png?raw=true)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
