@@ -63,4 +63,4 @@ Once all the code is done, I compiled the smart contract to make sure no errors 
 
 ## Solidity – Transaction: Last to withdraw and last amount verification address and amount
 ![Stocks Phot](https://github.com/Maurolp15/Unit_20_Joint_Savings_Account/blob/main/Execution_Results/Screenshot_9.png?raw=true)
-![image](https://user-images.githubusercontent.com/95111131/166849866-bbd84913-2cd0-4b98-ac4c-e8bba08fe201.png)
+
