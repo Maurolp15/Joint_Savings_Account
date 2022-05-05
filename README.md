@@ -20,47 +20,47 @@ Once all the code is done, I compiled the smart contract to make sure no errors 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Solidity – Contract Deploy
-![Stocks Phot]()
+![Stocks Phot](https://github.com/Maurolp15/Unit_20_Joint_Savings_Account/blob/main/Execution_Results/Screenshot_2.png?raw=true)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Solidity – Set Accounts
-![Stocks Phot]()
+![Stocks Phot](https://github.com/Maurolp15/Unit_20_Joint_Savings_Account/blob/main/Execution_Results/Screenshot_3.png?raw=true)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Solidity – Balance checked after sending 1 Ether in Wei
-![Stocks Phot]()
+![Stocks Phot](https://github.com/Maurolp15/Unit_20_Joint_Savings_Account/blob/main/Execution_Results/Screenshot_4.png?raw=true)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Solidity – Balance checked after sending 10 Ether in Wei
-![Stocks Phot]()
+![Stocks Phot](https://github.com/Maurolp15/Unit_20_Joint_Savings_Account/blob/main/Execution_Results/Screenshot_5.png?raw=true)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Solidity – Balance checked after sending 5 Ether
-![Stocks Phot]()
+![Stocks Phot](https://github.com/Maurolp15/Unit_20_Joint_Savings_Account/blob/main/Execution_Results/Screenshot_6.png?raw=true)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Solidity – Transaction: withdrawing 5 Ether into Account One
-![Stocks Phot]()
+![Stocks Phot](https://github.com/Maurolp15/Unit_20_Joint_Savings_Account/blob/main/Execution_Results/Screenshot_7.png?raw=true)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Solidity – Transaction: withdrawing 10 Ether into Account Two
-![Stocks Phot]()
+![Stocks Phot](https://github.com/Maurolp15/Unit_20_Joint_Savings_Account/blob/main/Execution_Results/Screenshot_8.png?raw=true)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Solidity – Transaction: Last to withdraw and last amount verification address and amount
-![Stocks Phot]()
+![Stocks Phot](https://github.com/Maurolp15/Unit_20_Joint_Savings_Account/blob/main/Execution_Results/Screenshot_9.png?raw=true)
 ![image](https://user-images.githubusercontent.com/95111131/166849866-bbd84913-2cd0-4b98-ac4c-e8bba08fe201.png)
