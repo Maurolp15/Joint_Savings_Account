@@ -1,6 +1,4 @@
-# Unit 20
-
-## Joint Savings Account
+# Joint Savings Account
 
 My name is Oscar Lopez, I’m a student at the University of Miami FinTech Bootcamp Program.
 
